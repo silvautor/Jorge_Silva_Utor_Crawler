@@ -6,6 +6,11 @@ using System.Net.Http;
 using System.Threading.Tasks;
 
 
+/// <summary>
+/// Crawler Coding Challenge
+/// Name: Jorge Silva Utor
+/// Email: mario_utor@hotmail.com
+/// </summary>
 namespace Jorge_Silva_Utor_Crawler
 {
     public static class Extensions
@@ -21,7 +26,7 @@ namespace Jorge_Silva_Utor_Crawler
             return chars.Aggregate(stringBody, (str, charItem) => str.Replace(charItem, replaceChar));
         }
     }
-
+    
     class Program
     {
         /// <summary>Makes a call to the Url and retuns the HttpResponse.
