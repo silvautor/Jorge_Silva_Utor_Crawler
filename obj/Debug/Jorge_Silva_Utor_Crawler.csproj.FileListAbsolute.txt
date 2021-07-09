@@ -1,0 +1,10 @@
+C:\Users\Jorge Silva Utor\source\Jorge_Silva_Utor_Crawler\bin\Debug\Jorge_Silva_Utor_Crawler.exe.config
+C:\Users\Jorge Silva Utor\source\Jorge_Silva_Utor_Crawler\bin\Debug\Jorge_Silva_Utor_Crawler.exe
+C:\Users\Jorge Silva Utor\source\Jorge_Silva_Utor_Crawler\bin\Debug\Jorge_Silva_Utor_Crawler.pdb
+C:\Users\Jorge Silva Utor\source\Jorge_Silva_Utor_Crawler\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Jorge Silva Utor\source\Jorge_Silva_Utor_Crawler\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\Jorge Silva Utor\source\Jorge_Silva_Utor_Crawler\bin\Debug\HtmlAgilityPack.xml
+C:\Users\Jorge Silva Utor\source\Jorge_Silva_Utor_Crawler\obj\Debug\Jorge_Silva_Utor_Crawler.csproj.CoreCompileInputs.cache
+C:\Users\Jorge Silva Utor\source\Jorge_Silva_Utor_Crawler\obj\Debug\Jorge_Silva_Utor_Crawler.csproj.CopyComplete
+C:\Users\Jorge Silva Utor\source\Jorge_Silva_Utor_Crawler\obj\Debug\Jorge_Silva_Utor_Crawler.exe
+C:\Users\Jorge Silva Utor\source\Jorge_Silva_Utor_Crawler\obj\Debug\Jorge_Silva_Utor_Crawler.pdb
